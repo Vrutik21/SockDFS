@@ -71,7 +71,7 @@ The client can use the following commands to interact with the distributed file 
   - `pathname`: Path of the directory on Smain (`~/smain`).
 - **Example:**
   ```bash
-  display ~smain/folder1/folder2
+  display ~/smain/folder1/folder2
   ```
 
 ## Setup and Execution
