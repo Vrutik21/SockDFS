@@ -108,7 +108,7 @@ gcc -o client client24s.c
 
 ## Project Submission
 
-### This project is submitted as part of the COMP-8567 course for the Summer 2024 session. It involves demonstrating the project during a scheduled slot and undergoing a viva.
+### This project is submitted as part of the COMP-8567:Advanced Systems Programming course for the Summer 2024 session. It involves demonstrating the project during a scheduled slot and undergoing a viva.
 
 ## Authors
 
